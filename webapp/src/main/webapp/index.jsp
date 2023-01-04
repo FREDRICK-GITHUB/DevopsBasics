@@ -1,3 +1,3 @@
-<h1> RahulShettyAcademy.com Learning</h1>
-<h2> Learn QA Automation tools + Devops Tools CI/CD pipelines in course from Scratch</h2>
-<h2> Good Luck and we are almost done with the course.Thankyou</h2>
+<h1> DevOps Concepts Learning</h1>
+<h2> Learning QA Automation tools + Devops Tools CI/CD pipelines in course from the basics</h2>
+<h2> Good progress so far in my learning</h2>
