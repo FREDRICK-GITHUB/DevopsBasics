@@ -7,3 +7,4 @@
     </i></h1>
 
 <p>This is test message 2 after webhook configuration update</p>
+<p><b>Test message 3</b></p>
